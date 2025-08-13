@@ -1,0 +1,5 @@
+CustomerID,Age,Income,SpendingScore
+1,25,40000,60
+2,45,65000,40
+3,30,70000,80
+...
